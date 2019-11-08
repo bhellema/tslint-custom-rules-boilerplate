@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="5.302">
+  <testsuite name="disallows OmegaEvents]" errors="0" failures="0" skipped="0" timestamp="2019-11-08T15:44:01" time="3.48" tests="3">
+    <testcase classname="disallows OmegaEvents] testing failure example" name="disallows OmegaEvents] testing failure example" time="0.061">
+    </testcase>
+    <testcase classname="disallows OmegaEvents] testing not failure example" name="disallows OmegaEvents] testing not failure example" time="0.006">
+    </testcase>
+    <testcase classname="disallows OmegaEvents] testing failure message example" name="disallows OmegaEvents] testing failure message example" time="0.008">
+    </testcase>
+  </testsuite>
+</testsuites>

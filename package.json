@@ -13,6 +13,7 @@
   "devDependencies": {
     "@types/jest": "^23.0.0",
     "jest": "^23.1.0",
+    "jest-junit": "^9.0.0",
     "ts-jest": "^22.4.6",
     "typescript": "^2.9.1"
   },
